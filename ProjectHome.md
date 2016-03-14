@@ -1,0 +1,1 @@
+While Zend Framework and CakePHP are great frameworks for developping Web applications, this project aims for very small Websites development.
